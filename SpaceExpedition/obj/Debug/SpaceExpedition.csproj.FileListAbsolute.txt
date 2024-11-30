@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\SpaceExpedition\SpaceExpedition\obj\Debug\SpaceExpedition.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\SpaceExpedition\SpaceExpedition\obj\Debug\SpaceExpedition.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SpaceExpedition\SpaceExpedition\bin\Debug\SpaceExpedition.exe.config
+C:\Users\pc\Desktop\SpaceExpedition\SpaceExpedition\bin\Debug\SpaceExpedition.exe
+C:\Users\pc\Desktop\SpaceExpedition\SpaceExpedition\bin\Debug\SpaceExpedition.pdb
+C:\Users\pc\Desktop\SpaceExpedition\SpaceExpedition\obj\Debug\SpaceExpedition.exe
+C:\Users\pc\Desktop\SpaceExpedition\SpaceExpedition\obj\Debug\SpaceExpedition.pdb
